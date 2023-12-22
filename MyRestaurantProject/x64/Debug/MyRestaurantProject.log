@@ -1,0 +1,9 @@
+﻿  MainForm.cpp
+  Program.cpp
+C:\Users\Saloni\Projects\MyRestaurantProject\MyRestaurantProject\LoginForm.h(211,20): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Program.cpp')
+  
+C:\Users\Saloni\Projects\MyRestaurantProject\MyRestaurantProject\Program.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyRestaurantProject.vcxproj -> C:\Users\Saloni\Projects\MyRestaurantProject\x64\Debug\MyRestaurantProject.exe

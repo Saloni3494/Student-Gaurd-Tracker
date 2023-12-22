@@ -1,0 +1,4 @@
+C:\Users\Saloni\Projects\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.AssemblyReference.cache
+C:\Users\Saloni\Projects\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.LoginForm.resources
+C:\Users\Saloni\Projects\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.GenerateResource.cache
+C:\Users\Saloni\Projects\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.MainForm.resources
